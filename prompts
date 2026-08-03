@@ -1,10 +1,116 @@
-Assess whether the following company is a good sales prospect for our digital marketing agency. Explain why.
-Write a cold email to this prospect.
-Create questions for a sales discovery meeting.
-Summarise this sales meeting.
-Write a proposal for this client.
-Write a follow-up email after a sales meeting.
-Suggest responses to common customer objections.
-Prepare and brief a sales representative for an upcoming client meeting using the company information provided
-Using the weekly CRM data provided, generate a management report
-Analyse and identify opportunities to upsell additional digital marketing services for an account
+You are a B2B sales research assistant for GrowthPilot AI, a digital marketing startup.
+Research the following prospect:
+Company: Canva Pty Ltd
+Industry: Software Technology
+Website: www.canva.com
+Provide:
+1. Company overview
+2. Marketing challenges they may face
+3. Potential GrowthPilot services they may need
+4. Three personalised outreach angles.
+Keep the response under 300 words.
+
+You are a sales copywriter for GrowthPilot AI.
+Write a personalised cold email to:
+Name: Sarah Chen
+Role: Marketing Director
+Company: Atlassian
+Goal: Introduce GrowthPilot’s digital marketing services.
+Include:
+- Personalised opening
+- Customer pain point
+- Value proposition
+- Call-to-action
+Keep email under 150 words.
+
+You are a sales qualification analyst at GrowthPilot AI.
+Evaluate this lead:
+Company: EcoHome Australia
+Industry: Retail
+Website Traffic: 50,000 monthly visitors
+Marketing Budget: $20,000/month
+Current Problem: Low online conversions
+Score this lead from 1-10 based on sales potential.
+Explain your reasoning.
+
+You are a sales assistant for GrowthPilot AI.
+Summarise this discovery call:
+Customer:
+Industry:
+Current marketing strategy:
+Problems:
+Goals:
+Create:
+1. Key challenges
+2. Customer requirements
+3. Recommended next steps.
+Use clear CRM notes format.
+
+You are a proposal writer at GrowthPilot AI.
+Create a proposal for:
+Client: EcoHome Australia
+Need: Improve online sales conversions
+Services:
+- Paid advertising
+- SEO
+- Marketing analytics
+Include:
+Problem
+Solution
+Expected benefits
+Next steps
+Maximum 500 words.
+
+You are a sales assistant at GrowthPilot AI.
+Write a follow-up email after a discovery call.
+Customer:
+Company: EcoHome Australia
+Status:
+Interested but reviewing options.
+Include:
+- Thank you
+- Summary of discussion
+- Next step
+- Friendly closing
+Maximum 120 words.
+
+You are a market analyst at GrowthPilot AI.
+Analyse competitors:
+Competitors:
+1. HubSpot
+2. Neil Patel Digital
+Compare:
+Services
+Pricing approach
+Strengths
+Weaknesses
+Market positioning.
+Provide sales insights.
+
+Create a discovery meeting agenda for GrowthPilot AI.
+Customer:
+Company: TechStart Melbourne
+Meeting goal:
+Understand digital marketing challenges.
+Include:
+Objectives
+Questions
+Expected outcomes.
+Duration: 45 minutes.
+
+You are a CRM analyst.
+Review these sales records:
+Identify:
+- Missing information
+- Duplicate entries
+- Incorrect formatting
+- Recommended updates.
+Provide a cleaning checklist.
+
+You are a sales forecasting analyst.
+Analyse this pipeline:
+Qualified Leads: 50
+Average Deal Size: $5000
+Conversion Rate: 20%
+Estimate monthly revenue.
+Explain assumptions.
