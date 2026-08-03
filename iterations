@@ -1,1 +1,127 @@
+## Prompt 1: Prospect Research & Lead Intelligence
 
+Version: v1.0  
+Change Made: Created an initial prompt with basic company details and requested general prospect research.  
+Observed Effect: Output provided useful information but lacked depth, business context, and clear sales actions.  
+Lesson Learned: Adding sales objectives and specific analysis criteria improves AI-generated insights.
+
+Version: v2.0  
+Change Made: Added GrowthPilot AI sales role, decision-maker priorities, outreach angles, and instructions to separate facts from assumptions.  
+Observed Effect: Output became more relevant, structured, and suitable for sales preparation.  
+Lesson Learned: Role-based prompting and constraints improve reliability.
+
+
+## Prompt 2: Personalised Cold Email Generation
+
+Version: v1.0  
+Change Made: Created a prompt requesting a personalised sales email with basic customer information.  
+Observed Effect: Email was professional but sounded similar to generic sales messaging.  
+Lesson Learned: AI requires communication frameworks and customer context to create stronger outreach.
+
+Version: v2.0  
+Change Made: Added AIDA framework, prospect role, business challenge, and tone requirements.  
+Observed Effect: Generated more targeted and conversion-focused emails.  
+Lesson Learned: Structured frameworks improve consistency and quality of AI outputs.
+
+
+## Prompt 3: Lead Qualification Scoring
+
+Version: v1.0  
+Change Made: Created a prompt asking AI to score sales leads based on basic company information.  
+Observed Effect: Lead assessment was general and lacked a consistent evaluation method.  
+Lesson Learned: AI decisions improve when based on recognised business frameworks.
+
+Version: v2.0  
+Change Made: Added BANT qualification criteria and requested recommended sales actions.  
+Observed Effect: Produced clearer lead prioritisation and better sales recommendations.  
+Lesson Learned: Adding evaluation criteria makes AI outputs more actionable.
+
+
+## Prompt 4: Discovery Call Summary
+
+Version: v1.0  
+Change Made: Created a prompt to summarise customer discovery notes into CRM information.  
+Observed Effect: Summary captured key information but missed some important sales fields.  
+Lesson Learned: AI outputs need defined structures for operational use.
+
+Version: v2.0  
+Change Made: Added CRM-specific fields including pain points, buying signals, objections, and next actions.  
+Observed Effect: Generated more complete CRM-ready notes.  
+Lesson Learned: Structured output formats improve workflow automation.
+
+
+## Prompt 5: Sales Proposal Drafting
+
+Version: v1.0  
+Change Made: Created a basic proposal generation prompt using customer needs and GrowthPilot services.  
+Observed Effect: Proposal was understandable but focused more on services than business outcomes.  
+Lesson Learned: Sales proposals require customer value and ROI-focused instructions.
+
+Version: v2.0  
+Change Made: Added business goals, ROI language, implementation timeline, and executive proposal structure.  
+Observed Effect: Created more strategic proposals suitable for client discussions.  
+Lesson Learned: AI performs better when business objectives are clearly defined.
+
+
+## Prompt 6: Follow-up Email Automation
+
+Version: v1.0  
+Change Made: Created a prompt to generate simple post-meeting follow-up emails.  
+Observed Effect: Email was polite but lacked personalisation and customer-specific messaging.  
+Lesson Learned: Follow-up communication requires more customer context.
+
+Version: v2.0  
+Change Made: Added customer hesitation, previous discussion points, and consultative tone requirements.  
+Observed Effect: Produced more relationship-focused follow-ups.  
+Lesson Learned: Context improves customer engagement and relevance.
+
+
+## Prompt 7: Competitor Analysis
+
+Version: v1.0  
+Change Made: Created a prompt requesting a general competitor comparison.  
+Observed Effect: Analysis provided information but lacked direct sales application.  
+Lesson Learned: Business prompts should connect research outputs to decisions.
+
+Version: v2.0  
+Change Made: Added competitor weaknesses, sales objections, and GrowthPilot differentiation opportunities.  
+Observed Effect: Generated insights that could support sales conversations.  
+Lesson Learned: Prompts should define how information will be used.
+
+
+## Prompt 8: Sales Meeting Agenda Creation
+
+Version: v1.0  
+Change Made: Created a prompt to generate a basic discovery meeting agenda.  
+Observed Effect: Agenda covered topics but lacked strategic questioning.  
+Lesson Learned: AI-generated workflows improve when expected outcomes are specified.
+
+Version: v2.0  
+Change Made: Added discovery objectives, strategic questions, buying criteria, and next steps.  
+Observed Effect: Created a more structured sales meeting plan.  
+Lesson Learned: Clear workflow stages improve AI automation results.
+
+
+## Prompt 9: CRM Data Cleaning
+
+Version: v1.0  
+Change Made: Created a prompt to identify issues in sales records.  
+Observed Effect: Output identified problems but did not prioritise business impact.  
+Lesson Learned: AI recommendations become more useful when linked to business priorities.
+
+Version: v2.0  
+Change Made: Added revenue impact prioritisation and specific CRM quality checks.  
+Observed Effect: Produced clearer actions for improving CRM accuracy.  
+Lesson Learned: Adding prioritisation improves operational decision-making.
+
+## Prompt 10: Sales Forecasting Assistant
+
+Version: v1.0  
+Change Made: Created a prompt using basic pipeline data to estimate revenue.  
+Observed Effect: Forecast was simple but lacked risk analysis and assumptions.  
+Lesson Learned: Forecasting prompts require additional business variables.
+
+Version: v2.0  
+Change Made: Added sales cycle, revenue metrics, risks, and improvement recommendations.  
+Observed Effect: Generated more realistic forecasting insights.  
+Lesson Learned: More complete business context improves AI analysis quality.
