@@ -1,1 +1,76 @@
+Prompt 1: Prospect Research & Lead Intelligence
 
+01. Prompt Text
+Version 2.0 (Final Tested Prompt)
+Used to analyse Canva Pty Ltd as a B2B prospect by identifying business goals, customer acquisition challenges, GrowthPilot solutions, decision-maker priorities, and personalised outreach messaging using public information.
+
+02. Intended Workflow / Task
+Supports the lead research stage of GrowthPilot AI’s sales workflow.
+Used after a lead enters the CRM and before BDRs begin personalised outreach.
+
+03. Problem Being Solved
+Reduces manual prospect research time by improving:
+Research efficiency
+Prospect understanding
+Sales outreach consistency
+
+04. Automation Potential
+High automation potential.
+AI can generate initial research, identify opportunities, and suggest outreach strategies.
+Human review is required for:
+Information validation
+Assumption checking
+Final message personalisation
+
+05. Risks & Limitations
+Potential risks:
+Inaccurate AI-generated information
+Outdated market insights
+Incorrect assumptions about customer needs
+Mitigation:
+Verify key information before outreach
+Use AI outputs as sales support, not final decisions
+
+Prompt v1.0
+Research Canva and tell me about the company.
+Suggest how a digital marketing agency could help them.
+Include some ideas for contacting them.
+
+Output issues
+Too broad company research scope: The prompt does not define what company information is needed (e.g., target market, growth strategy, competitors, challenges), resulting in generic summaries.
+Lack of specific marketing problem focus: It does not ask the AI to identify Canva’s actual marketing pain points, customer acquisition challenges, or opportunities where an agency could add value.
+Unclear agency service alignment: The prompt does not specify which digital marketing services to evaluate (SEO, paid ads, content strategy, lead generation, analytics), leading to vague recommendations.
+Weak outreach requirements: “Ideas for contacting them” is too general and does not guide the AI to create personalised outreach messages, relevant decision-maker targeting, or engagement strategies.
+
+Prompt v1.1
+You are a B2B sales research assistant for GrowthPilot AI, a digital marketing startup.
+Research the following prospect:
+Company: Canva Pty Ltd
+Industry: Software Technology
+Website: www.canva.com
+Provide:
+1. Company overview
+2. Marketing challenges they may face
+3. Potential GrowthPilot services they may need
+4. Three personalised outreach angles.
+Keep the response under 300 words.
+
+Output issues
+Limited strategic context about the prospect: The output focused mainly on a general company overview and possible challenges but lacked deeper analysis of Canva’s business goals, growth priorities, and decision-maker needs.
+Recommendations were too generic: Suggested GrowthPilot services were not strongly connected to Canva’s specific customer acquisition challenges or SaaS growth strategy, reducing the usefulness of the sales insights.
+Outreach ideas lacked personalisation depth: The outreach angles were broad and did not provide a targeted message based on Canva’s likely stakeholders, priorities, or publicly available business information.
+
+Prompt v1.2
+Act as a senior B2B sales strategist at GrowthPilot AI.
+Analyse this prospect:
+Company: Canva Pty Ltd
+Industry: SaaS Technology
+Website: www.canva.com
+Identify:
+- Business goals
+- Likely customer acquisition challenges
+- Relevant GrowthPilot solutions
+- Decision-maker priorities
+- A personalised outreach message.
+Use only publicly available information and clearly label assumptions.
+Maximum 300 words.
