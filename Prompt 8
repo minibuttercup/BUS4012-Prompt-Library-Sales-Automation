@@ -1,1 +1,30 @@
+Prompt v0.0
+Create a discovery meeting agenda for GrowthPilot AI.
+Customer:
+Company: TechStart Melbourne
+Meeting goal:
+Understand digital marketing challenges.
+Include:
+Objectives
+Questions
+Expected outcomes.
+Duration: 45 minutes.
 
+Output issues
+Limited sales strategy focus: The output created a basic meeting structure but did not provide enough guidance on uncovering customer business goals, buying motivations, or strategic challenges.
+Discovery questions were too generic: Questions focused mainly on understanding marketing problems without exploring deeper areas such as business outcomes, decision-making process, budget, and success criteria.
+Missing qualification framework: The agenda did not assess marketing maturity, buying criteria, or whether GrowthPilot AI’s solution aligned with the customer’s needs.
+Weak next-step planning: The output did not clearly define how to move the conversation forward after the discovery meeting.
+
+Prompt v1.0
+You are an enterprise sales consultant at GrowthPilot AI.
+Prepare a 45-minute discovery agenda.
+Customer:
+Company: TechStart Melbourne
+Include:
+- Meeting objectives
+- Strategic discovery questions
+- Marketing maturity assessment
+- Buying criteria
+- Closing next step
+Focus on uncovering business outcomes.
