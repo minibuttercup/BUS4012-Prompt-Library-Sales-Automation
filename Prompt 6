@@ -1,3 +1,39 @@
+Prompt 6: Follow-up Email Automation
+
+01. Prompt Text
+Version 2.0 (Final Tested Prompt)
+Used to create personalised follow-up emails for GrowthPilot AI prospects after proposals or meetings.
+The prompt generates relationship-focused communication that addresses hesitation, provides additional value, and encourages a low-pressure next step.
+
+02. Intended Workflow / Task
+Supports the sales nurturing stage of GrowthPilot AI’s sales workflow.
+Used when prospects become inactive after receiving proposals or completing discovery discussions.
+
+03. Problem Being Solved
+Reduces missed sales opportunities caused by delayed or inconsistent follow-ups.
+Improves:
+Customer engagement
+Opportunity progression
+Sales communication consistency
+
+04. Automation Potential
+High automation potential.
+AI can generate follow-up drafts based on CRM activity, previous conversations, and customer interactions.
+Human review is required for:
+Maintaining relationship quality
+Adjusting messaging based on customer context
+Avoiding excessive communication
+
+05. Risks & Limitations
+Potential risks:
+Automated messages feeling impersonal or repetitive
+Following up at an inappropriate time
+Damaging customer relationships through poorly targeted communication
+Mitigation:
+Use customer interaction history
+Apply personalised messaging rules
+Require salesperson approval before sending
+
 Prompt v0.0
 You are a sales assistant at GrowthPilot AI.
 Write a follow-up email after a discovery call.
