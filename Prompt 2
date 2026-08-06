@@ -1,3 +1,39 @@
+Prompt 2: Personalised Cold Email Generation
+
+01. Prompt Text
+Version 2.0 (Final Tested Prompt)
+Used to create personalised outbound emails for GrowthPilot AI prospects by applying the AIDA framework.
+The prompt generates relevant messaging based on the prospect’s company context, marketing challenges, potential GrowthPilot AI value, and a clear discovery call request.
+
+02. Intended Workflow / Task
+Supports the outbound prospecting stage of GrowthPilot AI’s sales workflow.
+Used after prospect research is completed and before BDRs initiate personalised email outreach.
+
+03. Problem Being Solved
+Reduces the time sales representatives spend manually creating individual prospect emails.
+Improves:
+Personalisation quality
+Outbound messaging consistency
+Sales team productivity
+
+04. Automation Potential
+Very high automation potential.
+AI can generate first-draft outreach emails using prospect information, business context, and sales frameworks.
+Human review is required for:
+Validating prospect-specific assumptions
+Adding unique sales insights
+Ensuring messaging matches brand tone
+
+05. Risks & Limitations
+Potential risks:
+Generic messaging that does not reflect the prospect’s actual business priorities
+Incorrect assumptions about company challenges or marketing goals
+Over-personalisation using inaccurate information
+Mitigation:
+Provide verified prospect research before generation
+Require BDR approval before sending emails
+Use structured frameworks such as AIDA to maintain consistency
+
 Prompt v1.0
 Write a sales email introducing our digital marketing company to Atlassian.
 Keep it professional.
