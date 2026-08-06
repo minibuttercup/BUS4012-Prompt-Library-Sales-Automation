@@ -2,34 +2,52 @@ Prompt 1: Prospect Research & Lead Intelligence
 
 01. Prompt Text
 Version 2.0 (Final Tested Prompt)
-Used to analyse Canva Pty Ltd as a B2B prospect by identifying business goals, customer acquisition challenges, GrowthPilot solutions, decision-maker priorities, and personalised outreach messaging using public information.
+Used to analyse Canva Pty Ltd as a potential B2B SaaS prospect for GrowthPilot AI’s outbound sales strategy.
+The prompt evaluates Canva’s business model, growth objectives, customer acquisition challenges, marketing priorities, and potential areas where GrowthPilot AI’s digital marketing solutions could create value.
+The analysis identifies:
+Business goals and growth priorities
+Potential marketing and customer acquisition challenges
+Relevant GrowthPilot AI solution opportunities
+Likely decision-maker priorities
+Personalised outreach angles for sales engagement
+The output supports BDRs and Account Executives in preparing informed, customer-specific conversations instead of generic prospect outreach.
 
 02. Intended Workflow / Task
-Supports the lead research stage of GrowthPilot AI’s sales workflow.
-Used after a lead enters the CRM and before BDRs begin personalised outreach.
+Supports the prospect research and lead intelligence stage of GrowthPilot AI’s sales workflow.
+Used after a company enters the CRM and before BDRs begin personalised outbound communication.
+The prompt helps sales teams understand:
+Prospect business context before engagement
+Potential customer pain points
+Relevant value propositions
+Appropriate messaging strategy for decision-makers
 
 03. Problem Being Solved
-Reduces manual prospect research time by improving:
-Research efficiency
-Prospect understanding
-Sales outreach consistency
+Reduces the time sales teams spend manually researching companies before outreach.
+Traditional prospect research requires reviewing websites, industry information, marketing activities, and business priorities, which can delay sales activity.
+This improves:
+Research efficiency by generating structured prospect insights quickly
+Sales personalisation by identifying company-specific challenges
+Outreach effectiveness by aligning messaging with business goals
 
 04. Automation Potential
 High automation potential.
-AI can generate initial research, identify opportunities, and suggest outreach strategies.
+AI can analyse publicly available company information and generate initial prospect intelligence, including business objectives, possible challenges, and outreach recommendations.
 Human review is required for:
-Information validation
-Assumption checking
-Final message personalisation
+Validating company information and market assumptions
+Confirming that identified challenges are relevant to the prospect
+Adding sales insights based on previous customer interactions
 
 05. Risks & Limitations
 Potential risks:
-Inaccurate AI-generated information
-Outdated market insights
-Incorrect assumptions about customer needs
+AI may identify incorrect business challenges based on limited public information
+Company priorities may change, making research outdated
+AI-generated insights may create false assumptions about customer needs or buying motivations
+Over-reliance on AI research may reduce deeper salesperson investigation
 Mitigation:
-Verify key information before outreach
-Use AI outputs as sales support, not final decisions
+Use verified company sources before sales engagement
+Treat AI output as research support rather than confirmed customer information
+Require salesperson review before creating outreach strategies
+Combine AI insights with customer conversations and CRM history
 
 Prompt v1.0
 Research Canva and tell me about the company.
