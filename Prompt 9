@@ -1,1 +1,26 @@
+Prompt v0.0
+You are a CRM analyst.
+Review these sales records:
+Identify:
+Missing information
+Duplicate entries
+Incorrect formatting
+Recommended updates.
+Provide a cleaning checklist.
 
+Output issues
+Limited revenue-focused analysis: The output identified basic CRM data quality problems but did not evaluate how these issues could affect sales performance, forecasting accuracy, or revenue operations.
+Lack of prioritisation: Issues were listed equally without identifying which CRM problems had the highest business impact or required immediate attention.
+Generic recommendations: Suggested updates focused mainly on data cleaning activities and lacked actionable steps for improving sales processes, pipeline visibility, or customer management.
+Limited sales context: The prompt did not consider important sales factors such as lead stages, opportunity health, outdated deals, or customer lifecycle management.
+
+Prompt v1.0
+Act as GrowthPilot AI's revenue operations analyst.
+Audit CRM records.
+Check:
+Missing customer fields
+Incorrect lead stages
+Duplicate companies
+Outdated opportunities
+Prioritise issues by revenue impact.
+Create recommended actions.
