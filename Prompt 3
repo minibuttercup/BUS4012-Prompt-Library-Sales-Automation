@@ -1,3 +1,39 @@
+Prompt 3: Lead Qualification Scoring
+
+01. Prompt Text
+Version 2.0 (Final Tested Prompt)
+Used to evaluate inbound and outbound leads for GrowthPilot AI using BANT qualification criteria.
+The prompt analyses budget availability, decision-making authority, business need, and implementation timeline to generate a lead score and recommended sales action.
+
+02. Intended Workflow / Task
+Supports the lead qualification stage of GrowthPilot AI’s sales workflow.
+Used by BDRs and Account Executives before deciding whether a lead should progress through the sales pipeline.
+
+03. Problem Being Solved
+Reduces time spent manually reviewing low-quality leads that are unlikely to convert.
+Improves:
+Lead prioritisation
+Sales resource allocation
+Pipeline quality
+
+04. Automation Potential
+High automation potential.
+AI can automatically assess lead information, identify qualification gaps, and recommend follow-up actions.
+Human review is required for:
+Strategic enterprise opportunities
+Complex buying decisions
+Final qualification approval
+
+05. Risks & Limitations
+Potential risks:
+Incorrect lead scoring due to incomplete customer information
+AI prioritising leads based only on measurable factors while missing strategic value
+Bias caused by historical sales data
+Mitigation:
+Combine AI scoring with salesperson judgement
+Regularly review qualification criteria
+Include additional business context before making decisions
+
 Prompt v1.0
 Look at this sales lead and tell me if it is worth pursuing.
 Explain your answer.
