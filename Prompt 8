@@ -1,3 +1,39 @@
+Prompt 8: Sales Meeting Agenda Creation
+
+01. Prompt Text
+Version 2.0 (Final Tested Prompt)
+Used to create structured discovery meeting agendas for GrowthPilot AI sales representatives.
+The prompt generates meeting objectives, strategic discovery questions, marketing maturity assessment areas, buying criteria, and next steps.
+
+02. Intended Workflow / Task
+Supports sales meeting preparation before customer discovery calls.
+Used by Account Executives to ensure meetings focus on understanding business outcomes.
+
+03. Problem Being Solved
+Reduces unstructured sales meetings that fail to identify customer needs.
+Improves:
+Customer discovery quality
+Meeting efficiency
+Opportunity qualification
+
+04. Automation Potential
+High automation potential.
+AI can quickly generate customer-specific meeting structures using available prospect information.
+Human involvement is required for:
+Building customer relationships
+Adapting questions during conversations
+Identifying unexpected customer needs
+
+05. Risks & Limitations
+Potential risks:
+Generic discovery questions reducing customer engagement
+Sales representatives relying too heavily on AI preparation
+Missing important customer-specific discussion points
+Mitigation:
+Customise agendas using prospect research
+Encourage salesperson judgement during meetings
+Review previous customer interactions before preparation
+
 Prompt v0.0
 Create a discovery meeting agenda for GrowthPilot AI.
 Customer:
