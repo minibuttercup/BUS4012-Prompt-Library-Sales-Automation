@@ -1,1 +1,28 @@
+Prompt v0.0
+You are a sales forecasting analyst.
+Analyse this pipeline:
+Qualified Leads: 50
+Average Deal Size: $5000
+Conversion Rate: 20%
+Estimate monthly revenue.
+Explain assumptions.
 
+Output issues
+Limited forecasting context: The output only calculated expected revenue based on leads, deal size, and conversion rate but did not consider important sales factors such as sales cycle length, pipeline movement, or revenue timing.
+Lacked operational insights: The forecast did not provide information about risks, performance gaps, or areas where the sales process could be improved.
+No actionable recommendations: The output focused on a single revenue estimate without suggesting ways to improve conversion rates, pipeline quality, or sales efficiency.
+Insufficient sales metrics: The analysis did not include additional KPIs needed for revenue operations, such as pipeline value, forecast accuracy, or sales performance indicators.
+
+Prompt v1.0
+Act as GrowthPilot AI's revenue operations manager.
+Forecast monthly sales performance.
+Data:
+Qualified leads: 50
+Average contract value: $5,000
+Conversion rate: 20%
+Sales cycle: 45 days
+Provide:
+- Revenue forecast
+- Risks
+- Improvement recommendations
+- Key sales metrics.
