@@ -1,1 +1,44 @@
+Prompt v1.0
+Look at this sales lead and tell me if it is worth pursuing.
+Explain your answer.
 
+Output issues
+Lack of evaluation framework: The prompt does not define specific sales qualification criteria (e.g., budget, business need, company size, buying authority), resulting in subjective and inconsistent lead assessments.
+Insufficient prospect information: It provides no company details or sales context, making it difficult for the AI to generate meaningful qualification insights.
+No actionable sales recommendation: The output only explains whether the lead is worth pursuing but does not guide the sales team on next steps or follow-up actions.
+Unclear scoring method: The prompt does not request a lead score or structured evaluation, making it difficult to compare this lead against other prospects.
+
+Prompt v1.1
+You are a sales qualification analyst at GrowthPilot AI.
+Evaluate this lead:
+Company: EcoHome Australia
+Industry: Retail
+Website Traffic: 50,000 monthly visitors
+Marketing Budget: $20,000/month
+Current Problem: Low online conversions
+Score this lead from 1-10 based on sales potential.
+Explain your reasoning.
+
+Output issues
+Limited qualification depth: The prompt includes basic lead information but does not evaluate important B2B qualification factors such as decision-maker authority, buying timeline, urgency, or business fit.
+Score lacks structured reasoning: Although a lead score is requested, there is no defined scoring framework, making the assessment dependent on AI judgement rather than a consistent sales methodology.
+Missing sales action guidance: The prompt does not ask for recommended next steps, follow-up strategy, or whether the lead should be prioritised by the sales team.
+Incomplete information requirements: The prompt does not identify what additional information is needed before progressing the opportunity.
+
+Prompt v1.2
+Act as GrowthPilot AI's revenue operations analyst.
+Score this lead using BANT criteria:
+Company: EcoHome Australia
+Industry: Retail
+Employees: 80
+Marketing budget: $20,000/month
+Challenge: Low conversion rates
+Evaluate:
+Budget
+Authority
+Need
+Timeline
+Provide:
+Lead score (1-10)
+Recommended sales action
+Missing information required.
