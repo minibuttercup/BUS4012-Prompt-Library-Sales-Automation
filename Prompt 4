@@ -1,3 +1,39 @@
+Prompt 4: Discovery Call Summary & CRM Notes
+
+01. Prompt Text
+Version 2.0 (Final Tested Prompt)
+Used to convert unstructured discovery call notes into structured CRM records for GrowthPilot AI.
+The prompt extracts customer objectives, pain points, current solutions, buying signals, objections, and next actions while identifying missing information.
+
+02. Intended Workflow / Task
+Supports the post-discovery meeting stage of GrowthPilot AI’s sales workflow.
+Used after customer conversations to improve CRM accuracy and maintain complete opportunity records.
+
+03. Problem Being Solved
+Reduces manual CRM documentation effort after sales meetings.
+Improves:
+Pipeline visibility
+Customer information accuracy
+Sales forecasting reliability
+
+04. Automation Potential
+Very high automation potential.
+AI can transform meeting notes into structured CRM fields and highlight follow-up requirements.
+Human review is required for:
+Confirming customer details
+Protecting confidential information
+Approving opportunity updates
+
+05. Risks & Limitations
+Potential risks:
+AI incorrectly interpreting customer statements or buying intent
+Sensitive customer information being recorded unnecessarily
+Missing important context from conversations
+Mitigation:
+Use approved AI systems connected to secure workflows
+Review CRM updates before saving
+Remove unnecessary confidential information
+
 Prompt v1.0
 Summarise these meeting notes.
 Tell me what happened and what we should do next.
