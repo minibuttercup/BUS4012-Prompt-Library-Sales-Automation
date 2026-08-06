@@ -1,1 +1,44 @@
+Prompt v1.0
+Write a sales email introducing our digital marketing company to Atlassian.
+Keep it professional.
 
+Output issues
+Lack of prospect understanding: The prompt does not provide any information about Atlassian, the target audience, or the recipient, resulting in a generic sales email.
+No personalisation requirements: It does not guide the AI to reference the prospect’s role, company goals, industry challenges, or relevant business context.
+Weak sales structure: The prompt only requests a professional introduction and does not define key elements such as pain points, value proposition, or call-to-action.
+Unclear messaging objective: The prompt does not specify whether the goal is awareness, lead generation, booking a meeting, or starting a business conversation.
+
+Prompt v1.1
+You are a sales copywriter for GrowthPilot AI.
+Write a personalised cold email to:
+Name: Sarah Chen
+Role: Marketing Director
+Company: Atlassian
+Goal: Introduce GrowthPilot’s digital marketing services.
+Include:
+Personalised opening
+Customer pain point
+Value proposition
+Call-to-action
+Keep email under 150 words.
+
+Output issues
+Limited strategic sales approach: The email included basic personalisation and value messaging but lacked a structured framework to guide a stronger B2B sales conversation.
+Generic pain point identification: The customer challenge was assumed broadly and was not connected to Atlassian’s SaaS growth model, marketing priorities, or potential business objectives.
+Weak differentiation of value proposition: GrowthPilot’s benefits were mentioned but lacked measurable outcomes, specific business impact, or evidence of how the solution addresses the prospect’s challenges.
+Limited outreach strategy: The prompt focused only on email creation and did not encourage a consultative approach based on prospect research and decision-maker priorities.
+
+Prompt v1.2
+You are a B2B SaaS sales specialist creating outbound emails for GrowthPilot AI.
+Create an email for:
+Prospect: Sarah Chen
+Company: Atlassian
+Role: Marketing Director
+Use the AIDA framework:
+Attention: relevant business observation
+Interest: marketing challenge
+Desire: measurable GrowthPilot benefit
+Action: request a 20-minute discovery call
+Tone: professional, consultative.
+Avoid generic sales language.
+Maximum 150 words.
