@@ -1,1 +1,31 @@
+Prompt v0.0
+You are a market analyst at GrowthPilot AI.
+Analyse competitors:
+Competitors:
+HubSpot
+Neil Patel Digital
+Compare:
+Services
+Pricing approach
+Strengths
+Weaknesses
+Market positioning.
+Provide sales insights.
 
+Output issues
+Limited sales-focused insights: The output mainly compared competitors at a high level but did not explain how the findings could support GrowthPilot’s sales strategy or positioning.
+Lacked customer perspective: The analysis focused on competitor features and pricing but did not identify customer pain points, objections, or reasons customers may choose alternatives.
+No clear differentiation opportunities: The output did not highlight where GrowthPilot could compete differently or create a unique value proposition against established competitors.
+Insufficient separation between facts and assumptions: The analysis mixed market observations with assumptions, making it harder to determine which insights were reliable for decision-making.
+
+Prompt v1.0
+Act as a competitive intelligence analyst for GrowthPilot AI.
+Analyse:
+HubSpot
+Neil Patel Digital
+Create:
+Competitor strengths
+Customer weaknesses
+Sales objections we may face
+GrowthPilot differentiation opportunities
+Separate facts from assumptions.
