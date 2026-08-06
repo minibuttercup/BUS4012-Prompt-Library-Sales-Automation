@@ -1,3 +1,39 @@
+Prompt 5: Sales Proposal Drafting
+
+01. Prompt Text
+Version 2.0 (Final Tested Prompt)
+Used to create ROI-focused client proposals for GrowthPilot AI after discovery meetings.
+The prompt structures proposals around customer challenges, GrowthPilot AI solutions, expected business impact, and implementation planning.
+
+02. Intended Workflow / Task
+Supports the proposal development stage of GrowthPilot AI’s sales workflow.
+Used after discovery calls and before presenting commercial recommendations to prospects.
+
+03. Problem Being Solved
+Reduces the time required to create customised sales proposals.
+Improves:
+Proposal development speed
+Sales communication consistency
+Value-based selling approach
+
+04. Automation Potential
+Medium-high automation potential.
+AI can generate proposal drafts based on customer information and business objectives.
+Human review is required for:
+Pricing and commercial decisions
+ROI validation
+Final strategic recommendations
+
+05. Risks & Limitations
+Potential risks:
+Unrealistic ROI projections creating incorrect customer expectations
+Solutions not fully aligned with customer requirements
+Generic proposals lacking customer-specific value
+Mitigation:
+Validate financial assumptions before sharing
+Use verified customer discovery information
+Require sales leadership approval for final proposals
+
 Prompt v1.0
 You are a proposal writer at GrowthPilot AI.
 Create a proposal for:
