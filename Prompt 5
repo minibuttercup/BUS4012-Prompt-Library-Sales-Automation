@@ -1,1 +1,35 @@
+Prompt v1.0
+You are a proposal writer at GrowthPilot AI.
+Create a proposal for:
+Client: EcoHome Australia
+Need: Improve online sales conversions
+Services:
+Paid advertising
+SEO
+Marketing analytics
+Include:
+Problem
+Solution
+Expected benefits
+Next steps
+Maximum 500 words.
 
+Output issues
+Limited business context: The output focused on creating a generic marketing proposal but did not consider EcoHome Australia’s specific business goals, revenue targets, or growth challenges.
+Lack of measurable outcomes: Benefits were described broadly without clear metrics, ROI expectations, or connection to business performance indicators such as revenue growth or conversion improvement.
+Weak strategic positioning: The proposal mainly described services rather than explaining how GrowthPilot’s solutions would address customer acquisition, advertising efficiency, and ecommerce growth challenges.
+Unclear proposal structure: The format was basic and lacked key client-facing sections such as executive summary, implementation approach, timeline, and expected business impact.
+
+Prompt v1.1
+Act as a strategic account manager at GrowthPilot AI.
+Create a client proposal using:
+Client: EcoHome Australia
+Business goal: Increase ecommerce revenue by 25%
+Challenges: Low conversion rates and inefficient advertising spend
+Structure:
+Executive summary
+Current challenges
+GrowthPilot solution
+Expected business impact
+Implementation timeline
+Use ROI-focused language.
