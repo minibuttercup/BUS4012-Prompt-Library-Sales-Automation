@@ -1,1 +1,41 @@
+Prompt v1.0
+Summarise these meeting notes.
+Tell me what happened and what we should do next.
 
+Output issues
+Lack of sales context: The prompt does not specify that the meeting notes are from a discovery call or sales conversation, resulting in a generic summary rather than actionable sales insights.
+No structured CRM output requirements: It does not define the information fields needed for CRM tracking, making the output inconsistent and difficult to use in sales workflows.
+Missing customer insight extraction: The prompt does not ask the AI to identify customer challenges, requirements, goals, or buying signals, limiting the usefulness of the summary.
+Unclear next-step guidance: “What we should do next” is too broad and does not define ownership, actions, deadlines, or follow-up priorities.
+
+Prompt v1.1
+You are a sales assistant for GrowthPilot AI.
+Summarise this discovery call:
+Customer:
+Industry:
+Current marketing strategy:
+Problems:
+Goals:
+Create:
+Key challenges
+Customer requirements
+Recommended next steps.
+Use clear CRM notes format.
+
+Output issues
+Limited CRM depth: The prompt creates a structured summary but does not capture important sales qualification information such as buying signals, objections, decision factors, or customer priorities.
+Insufficient action tracking: Recommended next steps are included but do not specify responsible owners or deadlines, reducing follow-up accountability.
+Potential for AI assumptions: The prompt does not instruct the AI to separate confirmed customer information from inferred insights, increasing the risk of inaccurate CRM data.
+Missing sales qualification elements: It does not capture the customer’s current solutions, gaps, or reasons for considering a change, limiting pipeline visibility.
+
+Prompt v1.2
+You are a CRM automation specialist at GrowthPilot AI.
+Convert these discovery notes into structured CRM information.
+Include:
+Customer objective
+Pain points
+Current solutions
+Buying signals
+Objections
+Next action owner and deadline
+Avoid assumptions. Mark missing information clearly.
