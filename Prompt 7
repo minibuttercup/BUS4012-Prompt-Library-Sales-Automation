@@ -1,3 +1,40 @@
+Prompt 7: Competitor Analysis
+
+01. Prompt Text
+Version 2.0 (Final Tested Prompt)
+Used to generate competitive intelligence for GrowthPilot AI by analysing competitor strengths, weaknesses, customer objections, and differentiation opportunities.
+The prompt separates verified market facts from assumptions to support sales positioning.
+
+02. Intended Workflow / Task
+Supports sales preparation before customer meetings and competitive discussions.
+Used by sales teams to improve objection handling and positioning strategies.
+
+03. Problem Being Solved
+Reduces manual competitor research effort and improves sales readiness.
+Improves:
+Competitive positioning
+Customer objection handling
+Sales conversation quality
+
+04. Automation Potential
+Medium-high automation potential.
+AI can summarise competitor information and identify possible differentiation strategies.
+Human validation is required for:
+Market accuracy
+Competitive claims
+Strategic positioning decisions
+
+05. Risks & Limitations
+Potential risks:
+Outdated competitor information influencing sales decisions
+Incorrect comparisons creating misleading claims
+Failure to identify competitor strengths
+Mitigation:
+Validate important competitor information
+Update research regularly
+Use AI insights as preparation support rather than confirmed facts
+
+
 Prompt v0.0
 You are a market analyst at GrowthPilot AI.
 Analyse competitors:
