@@ -1,3 +1,39 @@
+Prompt 10: Sales Forecasting Assistant
+
+01. Prompt Text
+Version 2.0 (Final Tested Prompt)
+Used to forecast GrowthPilot AI’s monthly sales performance by analysing pipeline data, conversion rates, contract values, and sales cycle length.
+The prompt generates revenue forecasts, identifies risks, and recommends improvement actions.
+
+02. Intended Workflow / Task
+Supports revenue forecasting and pipeline management activities.
+Used by revenue operations managers to support business planning and sales decision-making.
+
+03. Problem Being Solved
+Reduces manual forecasting effort and improves consistency across sales teams.
+Improves:
+Revenue visibility
+Resource planning
+Pipeline decision-making
+
+04. Automation Potential
+Medium-high automation potential.
+AI can analyse sales pipeline data and identify revenue trends quickly.
+Human review is required for:
+Validating assumptions
+Considering external market factors
+Approving business decisions
+
+05. Risks & Limitations
+Potential risks:
+Forecasts becoming inaccurate due to outdated pipeline information
+Over-reliance on AI predictions without sales context
+Incorrect assumptions about conversion rates or deal timing
+Mitigation:
+Regularly update pipeline data
+Compare AI forecasts against actual performance
+Combine AI insights with sales manager judgement
+
 Prompt v0.0
 You are a sales forecasting analyst.
 Analyse this pipeline:
