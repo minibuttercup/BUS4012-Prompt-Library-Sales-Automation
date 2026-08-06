@@ -1,3 +1,39 @@
+Prompt 9: CRM Data Cleaning
+
+01. Prompt Text
+Version 2.0 (Final Tested Prompt)
+Used to audit GrowthPilot AI’s CRM database by identifying missing information, incorrect pipeline stages, duplicate records, and outdated opportunities.
+The prompt prioritises data issues based on potential revenue impact.
+
+02. Intended Workflow / Task
+Supports revenue operations and CRM maintenance workflows.
+Used regularly to improve CRM data quality and ensure accurate sales reporting.
+
+03. Problem Being Solved
+Reduces manual CRM auditing effort and improves reliability of sales data.
+Improves:
+Forecast accuracy
+Reporting quality
+Pipeline management
+
+04. Automation Potential
+Very high automation potential.
+AI can continuously identify CRM data issues and recommend corrective actions.
+Human approval is required for:
+Deleting duplicate records
+Changing opportunity stages
+Modifying important customer information
+
+05. Risks & Limitations
+Potential risks:
+Incorrect record changes affecting sales history
+Deletion of valuable customer information
+Misclassification of opportunity stages
+Mitigation:
+Use AI recommendations instead of automatic changes
+Maintain approval workflows
+Keep CRM change history for auditing
+
 Prompt v0.0
 You are a CRM analyst.
 Review these sales records:
