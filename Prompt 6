@@ -1,1 +1,33 @@
+Prompt v0.0
+You are a sales assistant at GrowthPilot AI.
+Write a follow-up email after a discovery call.
+Customer:
+Company: EcoHome Australia
+Status:
+Interested but reviewing options.
+Include:
+- Thank you
+- Summary of discussion
+- Next step
+- Friendly closing
+Maximum 120 words.
+
+Output issues
+Limited customer context: The output generated a generic follow-up email because it only included the customer’s interest status and did not consider specific reasons behind their hesitation or decision-making process.
+Transactional communication style: The email focused mainly on thanking the customer and summarising the call rather than building a stronger relationship or addressing customer concerns.
+Weak next-step recommendation: The suggested next step was broad and did not provide a clear, low-pressure action that could help move the sales conversation forward.
+Limited value demonstration: The response lacked additional insights or relevant value points that could reinforce GrowthPilot AI’s relevance to the customer.
+
+Prompt v1.0
+Create a relationship-focused follow-up email for GrowthPilot AI.
+Customer:
+EcoHome Australia
+Context:
+Customer liked the proposal but has not responded for 10 days.
+Include:
+- Reference previous discussion
+- Address possible hesitation
+- Provide value insight
+- Suggest a low-pressure next step
+Tone: consultative, not pushy.
 
